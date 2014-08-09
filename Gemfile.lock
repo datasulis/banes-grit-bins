@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    json (1.8.1)
+    netrc (0.7.7)
+    osgb_convert (0.0.4)
+    rest_client (1.7.3)
+      netrc (~> 0.7.7)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  json
+  osgb_convert
+  rest_client
